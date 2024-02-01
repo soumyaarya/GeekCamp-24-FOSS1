@@ -19,13 +19,6 @@ We encourage participants to contribute to this repository by completing the tas
 
 For detailed instructions, refer to the [Contribution Guidelines](CONTRIBUTING.md).
 
-## Resources
-To help you with the tasks, here are some useful resources:
-
-- [Git Documentation](https://git-scm.com/doc)
-- [GitHub Guides](https://guides.github.com/)
-- [Pro Git Book](https://git-scm.com/book/en/v2)
-
 ## Contact Information
 If you have any questions or need assistance, feel free to reach out to us:
 
