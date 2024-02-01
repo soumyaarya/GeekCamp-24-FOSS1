@@ -16,12 +16,11 @@ We encourage participants to contribute to this repository by completing the tas
 3. Complete the tasks as outlined in each task file.
 4. Commit your changes and push them to your forked repository.
 5. Create a pull request to submit your contributions.
-
-For detailed instructions, refer to the [Contribution Guidelines](CONTRIBUTING.md).
+6. Dont't forget to drop a Star in this repo.😉
 
 ## Contact Information
 If you have any questions or need assistance, feel free to reach out to us:
 
-- GeekHaven Discord: [GeekHaven Discord Server](https://discord.com/invite/g5cbMkq75Z)
+GeekHaven Discord: [GeekHaven Discord Server](https://discord.com/invite/g5cbMkq75Z)
 
 Happy coding! 🖥️✨
