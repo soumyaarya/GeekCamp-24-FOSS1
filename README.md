@@ -1,26 +1,34 @@
-# GeekCamp FOSS Task Repository
+# Git Ready
 
-Welcome to the GeekCamp FOSS Task Repository! 🚀 This repository is specially created to enhance the understanding of Git and GitHub for first-year students as part of the GeekCamp series organized by GeekHaven, the technical society of IIITA (Indian Institute of Information Technology, Allahabad).
+## Task 2
 
-## 💡About GeekCamp
-GeekCamp is a series of technical workshops organized by GeekHaven, the technical society of IIITA. These workshops aim to provide first-year students with hands-on experience and practical knowledge in various emerging technologies and tools.
+This task comprises the following steps.
 
-## 🎯 Objective
-The primary objective of this repository is to help first-year students understand Git and GitHub, essential tools for collaborative software development. By completing the tasks in this repository, participants will gain practical experience in using version control and contributing to open source projects.
+### Step 1
 
-## 📋 How to Contribute
-We encourage participants to contribute to this repository by completing the tasks and making pull requests. Follow these steps to get started:
+- Checkout to the `Task-2` branch.
+- Create a text file named `<github-username>.txt`. For example, if your GitHub username is *sarthakvermaa*, the file name should be `sarthakvermaa.txt`.
+- Write the name of your roommate on the first line of the file.
+- Commit these changes.
 
-1. Fork this repository.
-2. Clone your forked repository to your local machine.
-3. Complete the tasks as outlined in each task file.
-4. Commit your changes and push them to your forked repository.
-5. Create a pull request to submit your contributions.
-6. Dont't forget to drop a Star in this repo.😉
+### Step 2
 
-## 💻 Contact Information
-If you have any questions or need assistance, feel free to reach out to us:
+- Create a new branch named `feature` (and switch to it) from the `Task-2` branch.
+- Specify two habits of your roommate that annoy you on **lines 2 and 3** of the file.
+- Commit these changes.
 
-GeekHaven Discord: [GeekHaven Discord Server](https://discord.com/invite/g5cbMkq75Z)
+### Step 3
 
-Happy coding! 🖥️✨
+- Return to the `Task-2` branch.
+- Write 2-3 sentences something good about your roommate, just below their name, i.e., on lines 2 and 3.
+- Commit these changes.
+
+### Final step
+
+- Merge the changes from the `feature` branch into the `Task-2` branch.
+
+*Upon completing this task, ensure you have precisely 4 commits, and the data entered in both steps 2 & 3 persists in the file. Push these changes and create a PR. Remember to mention the Issue No. in the PR.*
+
+<hr>
+
+Switch to the `Task-3` branch for the subsequent task.
