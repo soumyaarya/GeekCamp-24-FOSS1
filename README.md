@@ -1,36 +1,26 @@
-# Final BOSS: FOSS⚔️
+# GeekCamp FOSS Task Repository
 
-## Task 3
+Welcome to the GeekCamp FOSS Task Repository! 🚀 This repository is specially created to enhance the understanding of Git and GitHub for first-year students as part of the GeekCamp series organized by GeekHaven, the technical society of IIITA (Indian Institute of Information Technology, Allahabad).
 
-### Step 1
+## 💡About GeekCamp
+GeekCamp is a series of technical workshops organized by GeekHaven, the technical society of IIITA. These workshops aim to provide first-year students with hands-on experience and practical knowledge in various emerging technologies and tools.
 
-- Start by switching to the `Task-3` branch.
-- Create a new file named `github-username.py`. For instance, if your GitHub username is **sarthakvermaa**, the file name should be `sarthakvermaa.py`.
-- Answer the following four questions in the new file, each answer committed separately with the commit message `Commit <Question No.>`:
+## 🎯 Objective
+The primary objective of this repository is to help first-year students understand Git and GitHub, essential tools for collaborative software development. By completing the tasks in this repository, participants will gain practical experience in using version control and contributing to open source projects.
 
-  - **Ques1-** What is your favorite TV Show/Web Series?
-  - **Ques2-** Why do you like the show/series?
-  - **Ques3-** Name your crush (could be from outside the college too).
-    Now, let's get serious.
-  - **Ques4-** Suppose I created an empty folder in my local repository. Can I add and commit this change? Answer with a Y/N.
+## 📋 How to Contribute
+We encourage participants to contribute to this repository by completing the tasks and making pull requests. Follow these steps to get started:
 
-- You should have 4 commits in your branch now. Push these changes to the `Task-3` branch and create a PR. Make sure to mention the `Issue No.` in the PR.
+1. Fork this repository.
+2. Clone your forked repository to your local machine.
+3. Complete the tasks as outlined in each task file.
+4. Commit your changes and push them to your forked repository.
+5. Create a pull request to submit your contributions.
+6. Dont't forget to drop a Star in this repo.😉
 
-### Step 2
+## 💻 Contact Information
+If you have any questions or need assistance, feel free to reach out to us:
 
-- I've had a change of heart.
-- Return to your local system and delete the last 2 commits.
-- Push these changes as well.
+GeekHaven Discord: [GeekHaven Discord Server](https://discord.com/invite/g5cbMkq75Z)
 
-### Step 3
-
-- Answer this final question. **Ques5-** What was your experience during the FOSS Workshops?
-- Save these changes but do not commit them. Store them away using git.
-
-### Final Step
-
-- Once again, I've changed my mind ;). Alter the commit message of the last commit in your branch to `Commit Message changed successfully`.
-- Lastly, retrieve the changes you had stored away and commit them with the message `Task 3 Completed`.
-- Push all these changes, and your task will conclude.
-
-<hr>
+Happy coding! 🖥️✨
