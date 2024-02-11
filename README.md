@@ -2,6 +2,10 @@
 
 Welcome to the GeekCamp FOSS Task Repository! 🚀 This repository is specially created to enhance the understanding of Git and GitHub for first-year students as part of the GeekCamp series organized by GeekHaven, the technical society of IIITA (Indian Institute of Information Technology, Allahabad).
 
+## 🏆Git Contest
+Switch to the `Task-1` branch to kick off the contest. Ensure that you adhere to the PR template, referencing the correct issue number.
+Happy Contesting! 🚀
+
 ## 💡About GeekCamp
 GeekCamp is a series of technical workshops organized by GeekHaven, the technical society of IIITA. These workshops aim to provide first-year students with hands-on experience and practical knowledge in various emerging technologies and tools.
 
